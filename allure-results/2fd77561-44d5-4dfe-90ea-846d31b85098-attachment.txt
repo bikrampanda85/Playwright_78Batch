@@ -1,0 +1,9 @@
+Application Opened..
+Login Worked..
+Emp. First Name selected from the Search By dropdown..
+First name filled as Bikram in the Search Box..
+Search Button clicked and presented a web table
+Total no of Rows in the Web Table is: 3
+	9453	Bangalore Prathyusha	-	-	-	-
+	9454	Bangalore Prathyusha	-	-	-	-
+	9455	Bangalore Prathyusha	-	-	-	-

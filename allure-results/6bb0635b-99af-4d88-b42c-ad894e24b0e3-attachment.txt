@@ -1,0 +1,6 @@
+Application Loaded
+Credential Entered
+Log in Success
+Emp. ID Selected from Drop Down
+Search Button Clicked
+Logout Success
